@@ -28,6 +28,7 @@ const programmingLanguages = [
     ['lua'],
     ['makefile', 'Malefile'],
     ['nim'],
+    ['nix'],
     ['objc', 'objectivec', 'objective-c', 'mm', 'm', 'obj-c'],
     ['ocaml'],
     ['perl.6', 'perl6', 'p6', 'pl6', 'pm6', 'nqp'],
